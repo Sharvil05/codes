@@ -1,0 +1,23 @@
+/* h1{
+    background-color: yellow;
+}
+
+p{
+    color: red;
+}
+ */
+
+
+ /* div>h1{
+
+    background-color: rgb(255, 0, 174);
+ } */
+
+
+ /* div>h1,p{
+    background-color: rebeccapurple;
+ } */
+
+  div>h3+p{
+    background-color: rebeccapurple;
+ }
