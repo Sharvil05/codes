@@ -1,0 +1,19 @@
+/* div>h1,p{
+    color:purple
+} */
+
+/* div p{
+    color: red;
+} */
+
+/* div>p{
+    color: rgb(211, 9, 9);
+} */
+
+/* div+p{
+    color: yellow;
+} */
+
+div~p{
+    color: red;
+}

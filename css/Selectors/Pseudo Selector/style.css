@@ -1,0 +1,33 @@
+
+h1:hover{
+    color: plum;
+}
+
+li:first-child{
+    color: red;
+    font-size: 20px;
+}
+
+li:last-child{
+    color: yellow;
+    font-size: 30px;
+}
+li:nth-child{
+    color: brown;
+}
+
+input:focus{
+    outline-color: red;
+    background-color: yellow;
+    color: red;
+}
+
+h1::after{
+    content: " Punekar";   
+}
+
+h1::before{
+    content: "Welcome, ";
+    color: red;
+    font-weight: bolder;
+}
