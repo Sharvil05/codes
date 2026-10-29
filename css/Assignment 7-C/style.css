@@ -1,0 +1,94 @@
+body{
+    background-color: black;
+}
+
+h1{
+
+    font-family: "Poppins", sans-serif;
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 42px;
+    font-style: bold;
+    letter-spacing: 0px;
+    text-align: center;
+    vertical-align: middle;
+    color: rgba(255, 215, 0, 1);
+  
+}
+
+p{
+    font-family: "Liberation Sans", sans-serif;
+    font-weight: 700;
+    font-style: bold;
+    font-size: 20px;
+    line-height: 20px;
+    letter-spacing: 0px;
+    vertical-align: middle;
+    color:rgba(230, 149, 0, 1);
+ ;
+}
+
+.description{
+
+    width: 500px;
+    height: 46px;
+    background-color: rgba(24, 24, 25, 1);
+   
+   padding-top: 12px;
+    
+
+}
+.description p{
+
+    font-family: "Liberation Sans", sans-serif;
+    font-weight: 400;
+   
+    font-size: 12px;
+    line-height: 15px;
+    letter-spacing: 0px;
+    vertical-align: middle;
+    color:rgba(229, 231, 235, 1);
+  
+   
+}
+
+.card{
+
+   background-color:rgba(43, 44, 47, 1);
+    padding-top: 20px;
+    padding-bottom: 12px;
+
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    width: 500px;
+
+}
+
+.card img{
+
+    width: 200px;
+    height: 290px;
+   
+}
+
+.title{
+    background-color: black;
+
+    width: 500px;
+    height: 17px;
+}
+
+.title p{
+
+    font-family: "Poppins", sans-serif;
+    font-weight: 400px;
+    font-size: 11px;
+    line-height: 16.5px;
+    letter-spacing: 0px;
+    text-align: center;
+    vertical-align: middle;
+    color:rgba(50, 205, 50, 1);
+;
+
+
+}

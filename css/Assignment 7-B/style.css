@@ -1,0 +1,33 @@
+
+body {
+    background-color: black;
+    color: white;
+    margin: 0;
+    font-family: "Quicksand", sans-serif;
+}
+
+.profile {
+    height: 48px;
+    padding: 4px 6px;
+}
+
+.profile img {
+    width: 23px;
+    height: 23px;
+    display: block;
+}
+
+.profile p {
+    font-family: "Quicksand", sans-serif;
+    font-size: 9px;
+    font-weight: 500;
+    line-height: 12px;
+    margin: 1px 0 0 0;
+    color: #ffffff;
+}
+
+hr {
+    margin: 0;
+    border: none;
+    border-top: 1px solid gray;
+}
