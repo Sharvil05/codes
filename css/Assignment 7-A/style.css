@@ -1,0 +1,104 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 40px;
+    color: #333;
+}
+
+.header {
+    text-align: center;
+}
+
+.header h1 {
+    color: navy;
+    font-size: 22px;
+}
+
+.header p {
+    color: gray;
+    font-size: 11px;
+}
+
+.popular {
+    text-align: center;
+    color: green;
+    text-decoration: underline;
+    font-size: 16px;
+    margin-top: 42px;
+    margin-bottom: 27px;
+}
+
+.card {
+    background-color: #68cbed;
+    width: 310px;
+    padding: 8px 0;
+    border-radius: 10px;
+    margin-bottom: 14px;
+}
+
+.card h3 {
+    color: green;
+    font-size: 13px;
+}
+
+.card p {
+    color: gray;
+    font-size: 11px;
+    line-height: 1.5;
+}
+
+.card h4 {
+    color: green;
+    font-size: 11px;
+    letter-spacing: 2px;
+}
+
+.card ul {
+    font-size: 11px;
+    list-style-type: none;
+    padding-left: 10px;
+}
+
+.card li::before {
+    content: "•";
+    color: red;
+}
+
+.tips {
+    margin-top: 30px;
+}
+
+.tips h2,
+.featured h2 {
+    color: green;
+    font-size: 15px;
+}
+
+.tips p {
+    font-size: 11px;
+    color: #4a5568;
+}
+
+.tips b {
+    color: green;
+}
+
+.featured {
+    margin-top: 28px;
+}
+
+.featured p {
+    color: darkred;
+    text-align: center;
+    font-size: 11px;
+    margin-top: 28px;
+}
+
+.footer {
+    font-size: 9px;
+    margin-top: 36px;
+}
+
+.footer b {
+    color: blue;
+}
